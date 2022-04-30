@@ -52,9 +52,9 @@ Copy codes from `ddnsscript.sh` in this repository.
 
 Modify these three place:
 
-`<your_domain_name>` : domain name you acquire on pubyun, example: `xxxx.f3322.net``
+`<your_domain_name>` : domain name you acquire on pubyun, example: `xxxx.f3322.net`
 
-``<your_update_code>` : update code from domain name settings
+`<your_update_code>` : update code from domain name settings
 
 `<your_wan_interface>` : probably be 'wan' or 'eth0.2'. type `ifconfig` to check what ip to be sent.
 
