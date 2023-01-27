@@ -8,7 +8,7 @@
 
 Based on services by [Openwrt](https://openwrt.org/) routers and [pubyun](https://www.pubyun.com/), Windows NT 10.0.
 
-Wrote this when found Openwrt can't update a private ip like 172.19.18.222 to 3322 ddns, while resolving domain names to these ip is in fact useful, for what we stay in is just a big "LAN".
+Wrote this when found Openwrt can't update a private ip like 172.19.18.222 to 3322 ddns, while resolving domain names to ips is in fact useful, for what we stay in is just a big "LAN".
 
 This method is tested in campus network(GZHU), but suitable for any DHCP network.
 
@@ -22,7 +22,7 @@ Skip this step.
 
 ### Windows 10 Home
 
-WIndows 10 Home doesn't support remote desktop by default, but you can make it available by installing [RDP Wrap](https://github.com/stascorp/rdpwrap).
+Windows 10 Home doesn't support remote desktop by default, but you can make it available by installing [RDP Wrap](https://github.com/stascorp/rdpwrap).
 
 ---
 
